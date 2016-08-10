@@ -1,0 +1,5 @@
+com/wavemaker/model/EmployeeInfo.class
+com/wavemaker/model/Employee.class
+com/wavemaker/controller/WelcomeWorldController.class
+com/wavemaker/controller/UserDetailsController.class
+com/wavemaker/controller/UserController.class
